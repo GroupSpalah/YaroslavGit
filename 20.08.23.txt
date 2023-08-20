@@ -1,0 +1,10 @@
+package lessons;
+
+public class Human {
+    private int age;
+    private float salary;
+
+    public Human(int age, float newSalary) {
+        this.age = age;
+        salary = newSalary;
+    }
